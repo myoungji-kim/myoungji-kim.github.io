@@ -21,7 +21,7 @@ categories:
   - title: "Book"
     url: /categories/book/
   - title: "Data Structure"
-  url: /categories/data-structure/
+  url: /categories/data+structure/
   - title: "Article"
   url: /categories/article/
   # - title: "Categories4"
