@@ -19,7 +19,7 @@ main:
 # 2022.02.15 sidebar update : simple ver.
 categories:
   - title: "Book"
-    url: /categories/book/
+  url: /categories/book/
   - title: "Data Structure"
   url: /categories/data+structure/
   - title: "Article"
