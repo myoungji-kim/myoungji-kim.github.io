@@ -20,8 +20,8 @@ main:
 categories:
   - title: "Book"
     url: /categories/book/
-  # - title: "Categories2"
-  #   url: /categories/categories2/
+  - title: "자료구조"
+    url: /categories/data-structure/
   # - title: "Categories3"
   #   url: /categories/categories3/
   # - title: "Categories4"
