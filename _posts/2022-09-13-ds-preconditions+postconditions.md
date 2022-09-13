@@ -3,7 +3,7 @@ title: "Preconditions and Postconditions"
 excerpt: "Data Structure. 1주차 수업 기록"
 
 categories:
-  - Article
+  - Data Structure
 # tags:
 #   - [tag1, tag2]
 
@@ -16,7 +16,7 @@ date: 2022-09-13
 last_modified_at: 2022-09-13
 ---
  
- ### 🧩 <b>Phases of Software Development (소프트웨어 개발 과정)</b>
+### 🧩 <b>Phases of Software Development (소프트웨어 개발 과정)</b>
 Program = Data Structures + Algorithm <br>
 >Data Structure : Organized collections of data <br>
 >Algorithm : A set of instructions for solving a problem <br>
@@ -50,4 +50,5 @@ Program = Data Structures + Algorithm <br>
   * 함수를 문제 없이 새로운 방법을 재구현할 수 있음
 
 * 함수를 작성하고 나서 assert문으로 잘 동작하는지 확인할 것 (c++ 기준)
+
 ---

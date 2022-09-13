@@ -3,7 +3,7 @@ title: "Abstract Data Types and C++ Classes"
 excerpt: "Data Structure. 1주차 수업 기록"
 
 categories:
-  - Article
+  - Data Structure
 # tags:
 #   - [tag1, tag2]
 
@@ -16,7 +16,7 @@ date: 2022-09-13
 last_modified_at: 2022-09-13
 ---
  
- ### 🧩 <b>class를 만들 때 주의할 점</b>
+### 🧩 <b>class를 만들 때 주의할 점</b>
 * Documentation <br>
 클래스 상단에 클래스에 대한 설명을 적어둘 것
 * Class definition <br>
@@ -39,7 +39,7 @@ int main()
 
 ---
  
- ### 🧩 <b>정리</b>
+### 🧩 <b>정리</b>
 * Class = Data + Member Functions
 * You know how to define a new class type, and place the definition in a header file.
 * You know how to use the header file in a program which declares instatnces of the class type.
