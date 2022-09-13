@@ -7,7 +7,7 @@ categories:
 # tags:
 #   - [tag1, tag2]
 
-permalink: /data+structure/abstract+data+types/
+permalink: /data-structure/abstract+data+types/
 
 toc: true
 toc_sticky: true

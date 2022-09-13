@@ -7,13 +7,13 @@ categories:
 # tags:
 #   - [tag1, tag2]
 
-permalink: /data+structure/preconditions+postconditions/
+permalink: /data-structure/preconditions+postconditions/
 
 toc: true
 toc_sticky: true
 
 date: 2022-09-13
-last_modified_at: 2022-09-13
+last_modified_at: 2022-09-14
 ---
  
 ### 🧩 <b>Phases of Software Development (소프트웨어 개발 과정)</b>
