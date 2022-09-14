@@ -147,7 +147,7 @@ Case 1. The function has to modify the actual parameter.<br>
 => Reference Parameter. <br>
 Case 2. It doesn't modify the actual parameter.<br>
 1) If the actual parameter's data size is small.<br>
-=> Value Parameter
+=> Value Parameter <br>
 2) If the actual parameter's data size is large. <br>
 => Const Reference Parameter (시간 단축을 위해 씀)
 
