@@ -1,5 +1,5 @@
 ---
-title: "자료구조"
+title: "Data Structure"
 layout: category
 permalink: /categories/data-structure/
 author_profile: true
