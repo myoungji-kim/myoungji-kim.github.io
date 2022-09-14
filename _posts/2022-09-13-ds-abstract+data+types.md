@@ -144,7 +144,7 @@ cout << y << endl; // 0
 
 #### <b>언제 쓰나요?</b>
 Case 1. The function has to modify the actual parameter.<br>
-=> Reference Parameter. <br>
+=> Reference Parameter. <br> <br>
 Case 2. It doesn't modify the actual parameter.<br>
 1) If the actual parameter's data size is small.<br>
 => Value Parameter <br>
@@ -154,7 +154,8 @@ Case 2. It doesn't modify the actual parameter.<br>
 ---
 
 ### 🧩 <b>Operator Overloading</b>
-- Defining a new meaning for an operator
+- Defining a new meaning for an operator <br>
+
 ``` c++
 bool operator == (const point& p1, const point& p2)
 // postcondition: The value returned is true if p1 and p2 are identical. Otherwise, false is returned.
