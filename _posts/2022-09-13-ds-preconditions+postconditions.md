@@ -3,7 +3,7 @@ title: "Preconditions and Postconditions"
 excerpt: "Data Structure. 1주차 수업 기록"
 
 categories:
-  - Data Structure
+  - data-structure
 # tags:
 #   - [tag1, tag2]
 
