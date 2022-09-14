@@ -13,7 +13,7 @@ toc: true
 toc_sticky: true
 
 date: 2022-09-13
-last_modified_at: 2022-09-13
+last_modified_at: 2022-09-14
 ---
  
 ### 🧩 <b>class를 만들 때 주의할 점</b>
