@@ -23,7 +23,8 @@ last_modified_at: 2022-09-13
 (x class definition which we have already seen) <br>
 클래스 껍데기에 대한 설명...
 * Using the x class <br>
-'#include "x.h"' => x.h 파일 사용
+'#include "x.h"' => x.h 파일 사용 <br>
+
 ``` c++
 #include <iostream.h>
 #include <stdlib.h>
