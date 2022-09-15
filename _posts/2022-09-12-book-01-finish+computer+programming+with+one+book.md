@@ -3,7 +3,7 @@ title: "Ch 01. 컴퓨터 내부의 언어 체계"
 excerpt: "[한 권으로 읽는 컴퓨터 구조와 프로그래밍]"
 
 categories:
-  - Book
+  - Book (직접 노출 X)
 # tags:
 #   - [tag1, tag2]
 
