@@ -38,7 +38,25 @@ last_modified_at: 2022-09-14
 
 ### 🧩 <b>1. 계층화 패턴 (Layered pattern)</b>
 (= n-티어 아키텍쳐 패턴) <br>
-(작성중)
+- 하위 모듈들의 그룹으로 나눌 수 있는 구조화된 프로그램에서 사용 가능
+- 각 계층은 다음 상위 계층에 서비스를 제공
+
+> * 프레젠테이션 계층 (Presentation layer) - UI 계층
+> * 애플리케이션 계층 (Application layer) - 서비스 계층
+> * 비즈니스 논리 계층 (Business logic layer) - 도메인 계층
+> * 데이터 접근 계층 (Data access layer) - 영속 계층
+
+#### 활용
+* 일반적인 데스크톱 애플리케이션
+* E-commerce 웹 애플리케이션
+* (약간 OSI 7 Layer 같은 느낌인데?)
+
+
+---
+
+### 🧩 <b>2. 클라이언트-서버 패턴 (Client-server pattern)</b>
+- 하나의 서버와 다수의 클라이언트
+- 
 
 ---
 
