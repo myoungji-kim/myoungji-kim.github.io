@@ -54,7 +54,7 @@ last_modified_at: 2022-09-11
 (22.09. 읽기 완료, 포스팅 준비 중)
 
 ### ▪ Ch 08. 프로그래밍 언어 처리
-(22.09. 읽기 완료, [포스팅 작성 중](https://myoungji-kim.github.io/book/finish+computer+programming+with+one+book/index))
+(22.09. 읽기 완료, [포스팅 작성 중](https://myoungji-kim.github.io/book/finish+computer+programming+with+one+book/ch+08))
 
 ### ▪ Ch 09. 웹 브라우저
 (아직 안 읽음)
