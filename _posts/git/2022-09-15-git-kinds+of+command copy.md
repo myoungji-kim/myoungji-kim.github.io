@@ -13,32 +13,42 @@ toc: true
 toc_sticky: true
 
 date: 2022-09-15
-last_modified_at: 2022-09-15
+last_modified_at: 2022-09-17
 
 ---
 
-### 🧩 <b>명령어 모음</b>
-
-#### <b>reset 관련 명령어</b>
+#### <b>🧩 reset 관련 명령어</b>
 * git reset HEAD^ : 최신 커밋 삭제 <br>
 
-#### <b>diff 관련 명령어</b>
+---
+
+#### <b>🧩 diff 관련 명령어</b>
 > Working Directory -> Staging Area -> Repository <br>
+
 * git diff : working directory와 statging area 사이의 차이 확인 <br>
 * git diff HEAD : Working Dicrectory + Staging Area 와 Repository 차이 비교 <br>
 * git diff --staged : Staging Area와 Repository HEAD 커밋 사이의 변경사항을 확인하기 위한 용도
 
+---
 
-#### <b>push 관련 명령어</b>
+#### <b>🧩 push 관련 명령어</b>
 * git push \<remotename> \<commit SHA>:\<remotebranchname> <br> : 원하는 커밋까지만 push하기
 
+---
 
-<br><br><br>
+#### <b>🧩 switch 관련 명령어</b>
+* git switch feature/101 : feature/101이라는 브랜치로 이동
+* git switch -c feature/101-1 : feature/101-1이라는 브랜치를 생성 후 이동
 
-git stash
-git fetch --prune
-git switch feature/203
-git pull origin feature/203
-git switch -c feature/203-2
-git stash pop
-git stash list
+---
+
+#### <b>🧩 stash 관련 명령어</b>
+(stash list에 가급적 아무것도 남기지 말자!)
+* git stash
+* git stash pop
+* git stash list
+
+---
+
+#### <b>🧩 fetch 관련 명령어</b>
+* git fetch --prune : commit 된 상태들 불러오기

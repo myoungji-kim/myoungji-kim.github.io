@@ -7,7 +7,7 @@ categories:
 # tags:
 #   - [tag1, tag2]
 
-permalink: /book/Ch01+finish+computer+programming+with+one+book/
+permalink: /book//finish+computer+programming+with+one+book/ch+01
 
 toc: true
 toc_sticky: true
