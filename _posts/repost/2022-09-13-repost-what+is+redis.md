@@ -3,11 +3,11 @@ title: "Redis를 사용해야 하는 순간"
 excerpt: "Article. 커리어리에서 발견한 지식 한 조각"
 
 categories:
-  - Article
+  - Repost
 # tags:
 #   - [tag1, tag2]
 
-permalink: /article/what+is+redis/
+permalink: /repost/what+is+redis/
 
 toc: true
 toc_sticky: true

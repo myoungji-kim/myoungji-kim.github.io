@@ -3,11 +3,11 @@ title: "주니어 개발자로서 갖춰야 할 6가지 역량"
 excerpt: "Article. 커리어리에서 발견한 지식 한 조각"
 
 categories:
-  - Article
+  - Repost
 # tags:
 #   - [tag1, tag2]
 
-permalink: /article/what+i+want+from+a+junior+developer/
+permalink: /repost/what+i+want+from+a+junior+developer/
 
 toc: true
 toc_sticky: true
