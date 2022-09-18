@@ -1,9 +1,9 @@
 ---
 title: "Article"
 layout: category
-permalink: /categories/article/
+permalink: /categories/repost/
 author_profile: true
-taxonomy: Article
+taxonomy: Repost
 sidebar:
   nav: "categories"
 ---
