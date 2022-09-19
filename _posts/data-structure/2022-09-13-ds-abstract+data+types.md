@@ -1,6 +1,6 @@
 ---
 title: "Abstract Data Types and C++ Classes"
-excerpt: "Data Structure. 2주차 수업 기록"
+excerpt: "Data Structure. Chapter 02."
 
 categories:
   - data-structure
@@ -12,7 +12,7 @@ permalink: /data-structure/abstract+data+types/
 toc: true
 toc_sticky: true
 
-date: 2022-09-13
+date: 2022-09-14
 last_modified_at: 2022-09-14
 ---
  

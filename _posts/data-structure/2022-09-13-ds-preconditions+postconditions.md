@@ -1,6 +1,6 @@
 ---
 title: "Preconditions and Postconditions"
-excerpt: "Data Structure. 1주차 수업 기록"
+excerpt: "Data Structure. Chapter 01."
 
 categories:
   - data-structure
