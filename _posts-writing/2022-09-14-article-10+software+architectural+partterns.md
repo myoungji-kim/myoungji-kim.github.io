@@ -1,13 +1,13 @@
 ---
 title: "10가지 소프트웨어 아키텍처 패턴에 대해"
-excerpt: "Article. 호기심으로 들고온 지식 한 조각"
+excerpt: "Repost. 호기심으로 들고온 지식 한 조각"
 
 categories:
   - Article
 # tags:
 #   - [tag1, tag2]
 
-permalink: /article/10+software+architectural+patterns/
+permalink: /repost/10+software+architectural+patterns/
 
 toc: true
 toc_sticky: true

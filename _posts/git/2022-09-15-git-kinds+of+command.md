@@ -52,3 +52,13 @@ last_modified_at: 2022-09-17
 
 #### <b>🧩 fetch 관련 명령어</b>
 * git fetch --prune : commit 된 상태들 불러오기
+
+
+---
+
+#### <b>🧩 특정 브랜치로 push하고 기존 브랜치 삭제하기</b>
+* git switch feature/203-static
+* git pull origin feature/203-2
+* git push origin feature/203-static
+* git push origin --delete feature/203-2
+* git branch -D feature/203-2
