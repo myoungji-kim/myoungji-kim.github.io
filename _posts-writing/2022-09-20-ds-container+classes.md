@@ -164,3 +164,73 @@ class Bag
     size_t used;
 }
 ```
+
+#### <b>An Example of Calling Insert</b>
+``` c++
+void bag::insert(int new_entry) 
+```
+
+<br>
+
+#### <b>Pseudocode for bag::insert</b>
+* `assert(size() < CAPACITY)`
+* Place `new_entry` in the appropriate location of the `data` array.
+* Add one to the member variable `used`.
+
+<br>
+
+#### <b>C++ code for bag::inesrt</b>
+``` c++
+typedef int value_type;
+
+// int 대신에 어떤 타입이라도 받기 위해 value_type으로 설정
+// 크기가 너무 커지는 것을 방지하기 위해 const
+void bag::insert(const value_type& entry)
+{
+  assert(size() < CAPACITY);
+  data[used++] = entry;
+}
+```
+
+<br>
+
+#### <b>C++ code for bag::erase_one</b>
+```c++
+bool bag::erase_one(const value_type& target)
+{
+  size_type index = 0;
+  while ((index < used) && (data[index] != target))
+    ++index;
+  if (index == used)
+    return false;
+  --used;
+  data[index] = data[used];
+  return true;
+}
+```
+
+<br>
+
+#### <b>C++ code for bag::operator +=</b>
+```c++
+#include <algorithm>
+#include <cassert>
+
+void bag::operator +=(const bag& addend)
+{
+  assert(size() +addend.size() <= CAPACITY);
+
+  // copy(beginning location, Ending location, Destination)
+  copy(addend.data, addend.data+addend.used, data+used);
+  used += addend.used;
+}
+```
+
+---
+
+### 🧩 <b>Summary</b>
+
+* A container class is a class that can hold a collection of items.
+* Container classes can be implemented with a C++ class.
+* The class is implemented with a header file (containing documentation and the clas definition) and an implementation file (containing the implementations of the member functions).
+* Other details are given in Section 3.1 (인터넷에서 다운 가능), which you should read.
