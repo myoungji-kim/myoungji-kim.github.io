@@ -12,8 +12,8 @@ permalink: /repost/about+cloud/
 toc: true
 toc_sticky: true
 
-date: 2022-09-18
-last_modified_at: 2022-09-18
+date: 2022-09-19
+last_modified_at: 2022-09-19
 ---
 
 > 기존에 나와있는 글을 바탕으로, 스스로 공부하기 위해 재정리한 포스팅입니다.
