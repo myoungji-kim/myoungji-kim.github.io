@@ -1,5 +1,5 @@
 ---
-title: "Article"
+title: "Repost"
 layout: category
 permalink: /categories/repost/
 author_profile: true
