@@ -1,5 +1,5 @@
 ---
-title: "데이터베이스 튜닝에 대해서 (DB Tuning)"
+title: "데이터베이스 튜닝(DB Tuning) 관련 개념 정리"
 excerpt: "Repost. 업무를 위한 지식 확장하기."
 
 categories:
