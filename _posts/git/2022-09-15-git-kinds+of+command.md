@@ -19,6 +19,7 @@ last_modified_at: 2022-09-17
 
 #### <b>🧩 reset 관련 명령어</b>
 * git reset HEAD^ : 최신 커밋 삭제 <br>
+* git reset --hard 'commit number'
 
 ---
 
@@ -33,6 +34,7 @@ last_modified_at: 2022-09-17
 
 #### <b>🧩 push 관련 명령어</b>
 * git push \<remotename> \<commit SHA>:\<remotebranchname> <br> : 원하는 커밋까지만 push하기
+* git push origin +feature/214
 
 ---
 
@@ -63,14 +65,18 @@ last_modified_at: 2022-09-17
 * git push origin --delete feature/203-2
 * git branch -D feature/203-2
 
-
 --- 
 
+#### <b>🧩 cherry-pick 관련 명령어</b>
 
-#### 메모 예정
-git push origin feature/214-1   
-git log
-git pull origin feature/214 --rebase
-git push origin +feature/214
-git cherry-pick 'commit number'
-git reset --hard 'commit number'
+> 다른 브랜치에 있는 커밋을 선택적으로 내 브랜치에 적용시킬 때 사용하는 명령어
+
+* git cherry-pick 'commit number'
+
+---
+
+#### <b>🧩 기타</b>  
+* git log
+* git pull origin feature/214 --rebase
+
+
