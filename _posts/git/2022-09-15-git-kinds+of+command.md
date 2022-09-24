@@ -62,3 +62,15 @@ last_modified_at: 2022-09-17
 * git push origin feature/203-static
 * git push origin --delete feature/203-2
 * git branch -D feature/203-2
+
+
+--- 
+
+
+#### 메모 예정
+git push origin feature/214-1   
+git log
+git pull origin feature/214 --rebase
+git push origin +feature/214
+git cherry-pick 'commit number'
+git reset --hard 'commit number'
